@@ -1,4 +1,4 @@
-# 🧭 PD Timer — A Desktop Pomodoro Countdown in Tkinter
+# 🧭🍅 PD Timer — A Desktop Pomodoro Countdown in Tkinter
 
 A themed, multi-stage Pomodoro-style timer built with Python's `tkinter`, `sv_ttk`, and `pywinstyles`. 
 
@@ -61,7 +61,7 @@ pip install sv-ttk pywinstyles
 │ └── tomato.ico # Optional window/taskbar icon
 ```
 
-## 🧠 How It Works
+## 🍅 How It Works
 
 - UI binds to virtual events (`<<TimerTick>>`, `<<TimerDone>>`)
 - A single `CountdownTimer` class handles timing
@@ -83,4 +83,4 @@ pip install sv-ttk pywinstyles
 
 ## 👤 Author
 
-[richard](https://github.com/richardhill3).
+[richard](https://github.com/richardhill3)
